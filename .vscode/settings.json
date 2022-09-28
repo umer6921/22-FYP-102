@@ -1,0 +1,7 @@
+{
+    "explorer.excludeGitIgnore": false,
+    "git.enabled": false,
+    "git.decorations.enabled": false,
+    "git.autorefresh": true,
+    "github.gitAuthentication": true
+}
